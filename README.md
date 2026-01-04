@@ -16,5 +16,4 @@ Minimal. Clean. Powerful.
 
 ---
 
-## 📄 Files Used
 
